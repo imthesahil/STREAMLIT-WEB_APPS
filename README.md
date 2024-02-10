@@ -1,1 +1,1 @@
-# STREAMLIT-WEB_APPS
+Welcome to the Streamlit Apps Repository! This collection houses a variety of interactive web applications developed using the Streamlit library in Python. Streamlit simplifies the process of turning data scripts into shareable web applications, making it easy to create compelling and user-friendly interfaces.
